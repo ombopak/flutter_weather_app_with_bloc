@@ -1,5 +1,9 @@
 # flutter_weather_app_with_bloc
 
+#self learning
+
+ build a Weather app in Flutter which demonstrates how to manage multiple cubits to implement dynamic theming, pull-to-refresh, and much more. Our weather app will pull live weather data from the public OpenMeteo API and demonstrate how to separate our application into layers (data, repository, business logic, and presentation).
+
 A new Flutter project.
 
 ## Getting Started
